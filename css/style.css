@@ -1,0 +1,51 @@
+#cvName{
+    font-family: sans-serif ;
+    background-color: aquamarine;
+}
+#name{
+    margin: 40px 0 0 50px;
+    position: relative;
+    background-color: bl;
+}
+.tabrow{
+    background-color: rgb(97, 115, 130);
+}
+.object{
+    background-color: rgb(121, 146, 167);
+}
+
+.sobi{
+    position: absolute;
+    right: 22px;
+    top: -40px;
+   
+    width: 150px;
+    height: 150px;
+}
+.about{
+    padding: 25px 0 0 50px;
+}
+.about>h2{
+    font-size: 33px;
+}
+.education{
+    position: relative;
+}
+.educationP{
+padding-left: 100px;    
+    left: 100px;
+
+}
+.education>h2{
+    font-size: 33px;
+}
+
+li{
+    transition: 0.32s;
+}
+
+ul li:hover {
+
+    color: aliceblue;
+    font-family: sans-serif;
+} 
